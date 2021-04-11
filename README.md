@@ -12,7 +12,7 @@ Radio-frequency identification (RFID) uses electromagnetic fields to automatical
 There are two conponents. One is the RFID and the other one OLED. You can look the connection in the code.
 
 # Run
-"main.c" to "main.hex" than upload to Arduino.
+AVR toolchain will convert "main.c" to "main.hex" than upload to Arduino.
 You might need to test your RFID kits first to make sure it works.
 We can use the AVR toolchain to convert program to hex file and then upload to the Arduino. I also uploaded my hex file. 
 Please pay to attention to the connection and make it correct. Don't connect the RFID Vcc to 5V, it MUST connect to the 3.3V.
