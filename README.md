@@ -17,8 +17,9 @@ We can use the AVR toolchain to convert program to hex file and then upload to t
 Please pay to attention to the connection and make it correct. Don't connect the RFID Vcc to 5V, it MUST connect to the 3.3V.
 
 # Important things
-
-
+1. Make sure you have a good work sensor and test before you go to next step. Or not you will have trouble when you meeting some problems.
+2. From my experience, you can but the kits on Amazon and I think it is the best way to buy it.
+3. According to the connection.txt, make sure wire the conponents in right position.
 
 
 # Demo link
